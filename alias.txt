@@ -1,0 +1,11 @@
+to adding alias to the space project
+ or to all enviroment
+
+use :
+
+git config -- global alias.ALIAS   REAL_COMMAND
+
+ex: 
+git config -- global alias.st  status
+
+
